@@ -1,5 +1,8 @@
 # Firewalls and installing SQL Server
 
+![image](https://github.com/Ashrafs-Tech/Installing-SQL/assets/166546026/787c86f5-3dab-4259-a411-9fb4a98ff523)
+
+
 ## Intro
 
 In this section of the project I will be doing three things:
